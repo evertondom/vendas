@@ -1,0 +1,11 @@
+D:\Cast Group\csharpintermediario\Aula1\Aula3-WF\bin\Debug\Aula3-WF.exe.config
+D:\Cast Group\csharpintermediario\Aula1\Aula3-WF\bin\Debug\Aula3-WF.exe
+D:\Cast Group\csharpintermediario\Aula1\Aula3-WF\bin\Debug\Aula3-WF.pdb
+D:\Cast Group\csharpintermediario\Aula1\Aula3-WF\obj\Debug\Aula3-WF.csproj.AssemblyReference.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula3-WF\obj\Debug\Aula3-WF.csproj.SuggestedBindingRedirects.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula3-WF\obj\Debug\Aula3_WF.Form1.resources
+D:\Cast Group\csharpintermediario\Aula1\Aula3-WF\obj\Debug\Aula3_WF.Properties.Resources.resources
+D:\Cast Group\csharpintermediario\Aula1\Aula3-WF\obj\Debug\Aula3-WF.csproj.GenerateResource.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula3-WF\obj\Debug\Aula3-WF.csproj.CoreCompileInputs.cache
+D:\Cast Group\csharpintermediario\Aula1\Aula3-WF\obj\Debug\Aula3-WF.exe
+D:\Cast Group\csharpintermediario\Aula1\Aula3-WF\obj\Debug\Aula3-WF.pdb
